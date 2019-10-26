@@ -1,0 +1,943 @@
+actor_id,actor,year,award_id,award,film
+1,CLARK GABLE,1934,10,Actor,It Happened One Night
+40,VICTOR MCLAGLEN,1935,10,Actor,The Informer
+689,PAUL LUKAS,1943,10,Actor,Watch on the Rhine
+807,BING CROSBY,1944,10,Actor,Going My Way
+910,RAY MILLAND,1945,10,Actor,The Lost Weekend
+1216,BRODERICK CRAWFORD,1949,10,Actor,All the King's Men
+1654,ERNEST BORGNINE,1955,10,Actor,Marty
+1723,YUL BRYNNER,1956,10,Actor,The King and I
+1857,DAVID NIVEN,1958,10,Actor,Separate Tables
+1921,CHARLTON HESTON,1959,10,Actor,Ben-Hur
+2049,MAXIMILIAN SCHELL,1961,10,Actor,Judgment at Nuremberg
+2314,LEE MARVIN,1965,10,Actor,Cat Ballou
+2386,PAUL SCOFIELD,1966,10,Actor,A Man for All Seasons
+2516,CLIFF ROBERTSON,1968,10,Actor,Charly
+2874,ART CARNEY,1974,10,Actor,Harry and Tonto
+3058,RICHARD DREYFUSS,1977,11,Actor in a Leading Role,The Goodbye Girl
+3358,BEN KINGSLEY,1982,11,Actor in a Leading Role,Gandhi
+3472,F. MURRAY ABRAHAM,1984,11,Actor in a Leading Role,Amadeus
+3536,WILLIAM HURT,1985,11,Actor in a Leading Role,Kiss of the Spider Woman
+3664,MICHAEL DOUGLAS,1987,11,Actor in a Leading Role,Wall Street
+3793,DANIEL DAY LEWIS,1989,11,Actor in a Leading Role,My Left Foot
+3856,JEREMY IRONS,1990,11,Actor in a Leading Role,Reversal of Fortune
+3918,ANTHONY HOPKINS,1991,11,Actor in a Leading Role,The Silence of the Lambs
+4166,NICOLAS CAGE,1995,11,Actor in a Leading Role,Leaving Las Vegas
+4240,GEOFFREY RUSH,1996,11,Actor in a Leading Role,Shine
+4384,ROBERTO BENIGNI,1998,11,Actor in a Leading Role,Life Is Beautiful
+4629,ADRIEN BRODY,2002,11,Actor in a Leading Role,The Pianist
+4749,JAMIE FOXX,2004,11,Actor in a Leading Role,Ray
+4815,PHILIP SEYMOUR HOFFMAN,2005,11,Actor in a Leading Role,Capote
+4885,FOREST WHITAKER,2006,11,Actor in a Leading Role,The Last King of Scotland
+5219,JEAN DUJARDIN,2011,11,Actor in a Leading Role,The Artist
+5349,MATTHEW MCCONAUGHEY,2013,11,Actor in a Leading Role,Dallas Buyers Club
+5421,EDDIE REDMAYNE,2014,11,Actor in a Leading Role,The Theory of Everything
+93,WALTER BRENNAN,1936,12,Actor in a Supporting Role,Come and Get It
+159,JOSEPH SCHILDKRAUT,1937,12,Actor in a Supporting Role,The Life of Emile Zola
+468,DONALD CRISP,1941,12,Actor in a Supporting Role,How Green Was My Valley
+583,VAN HEFLIN,1942,12,Actor in a Supporting Role,Johnny Eager
+915,JAMES DUNN,1945,12,Actor in a Supporting Role,A Tree Grows in Brooklyn
+1020,HAROLD RUSSELL,1946,12,Actor in a Supporting Role,The Best Years of Our Lives
+1083,EDMUND GWENN,1947,12,Actor in a Supporting Role,Miracle on 34th Street
+1221,DEAN JAGGER,1949,12,Actor in a Supporting Role,Twelve O'Clock High
+1295,GEORGE SANDERS,1950,12,Actor in a Supporting Role,All about Eve
+1362,KARL MALDEN,1951,12,Actor in a Supporting Role,A Streetcar Named Desire
+1429,ANTHONY QUINN,1952,12,Actor in a Supporting Role,Viva Zapata!
+1503,FRANK SINATRA,1953,12,Actor in a Supporting Role,From Here to Eternity
+1585,EDMOND O'BRIEN,1954,12,Actor in a Supporting Role,The Barefoot Contessa
+1656,JACK LEMMON,1955,12,Actor in a Supporting Role,Mister Roberts
+1797,RED BUTTONS,1957,12,Actor in a Supporting Role,Sayonara
+1860,BURL IVES,1958,12,Actor in a Supporting Role,The Big Country
+1922,HUGH GRIFFITH,1959,12,Actor in a Supporting Role,Ben-Hur
+2051,GEORGE CHAKIRIS,1961,12,Actor in a Supporting Role,West Side Story
+2118,ED BEGLEY,1962,12,Actor in a Supporting Role,Sweet Bird of Youth
+2186,MELVYN DOUGLAS,1963,12,Actor in a Supporting Role,Hud
+2316,MARTIN BALSAM,1965,12,Actor in a Supporting Role,A Thousand Clowns
+2388,WALTER MATTHAU,1966,12,Actor in a Supporting Role,The Fortune Cookie
+2459,GEORGE KENNEDY,1967,12,Actor in a Supporting Role,Cool Hand Luke
+2517,JACK ALBERTSON,1968,12,Actor in a Supporting Role,The Subject Was Roses
+2638,JOHN MILLS,1970,12,Actor in a Supporting Role,Ryan's Daughter
+2699,BEN JOHNSON,1971,12,Actor in a Supporting Role,The Last Picture Show
+2757,JOEL GREY,1972,12,Actor in a Supporting Role,Cabaret
+2814,JOHN HOUSEMAN,1973,12,Actor in a Supporting Role,The Paper Chase
+2875,ROBERT DE NIRO,1974,12,Actor in a Supporting Role,The Godfather Part II
+2936,GEORGE BURNS,1975,12,Actor in a Supporting Role,The Sunshine Boys
+3001,JASON ROBARDS,1976,12,Actor in a Supporting Role,All the President's Men
+3127,CHRISTOPHER WALKEN,1978,12,Actor in a Supporting Role,The Deer Hunter
+3250,TIMOTHY HUTTON,1980,12,Actor in a Supporting Role,Ordinary People
+3360,"LOUIS GOSSETT, JR.",1982,12,Actor in a Supporting Role,An Officer and a Gentleman
+3478,HAING S. NGOR,1984,12,Actor in a Supporting Role,The Killing Fields
+3537,DON AMECHE,1985,12,Actor in a Supporting Role,Cocoon
+3667,SEAN CONNERY,1987,12,Actor in a Supporting Role,The Untouchables
+3728,KEVIN KLINE,1988,12,Actor in a Supporting Role,A Fish Called Wanda
+4173,KEVIN SPACEY,1995,12,Actor in a Supporting Role,The Usual Suspects
+4242,"CUBA GOODING, JR.",1996,12,Actor in a Supporting Role,Jerry Maguire
+4386,JAMES COBURN,1998,12,Actor in a Supporting Role,Affliction
+4510,BENICIO DEL TORO,2000,12,Actor in a Supporting Role,Traffic
+4573,JIM BROADBENT,2001,12,Actor in a Supporting Role,Iris
+4630,CHRIS COOPER,2002,12,Actor in a Supporting Role,Adaptation
+4692,TIM ROBBINS,2003,12,Actor in a Supporting Role,Mystic River
+4819,GEORGE CLOONEY,2005,12,Actor in a Supporting Role,Syriana
+5087,CHRISTOPH WALTZ,2009,12,Actor in a Supporting Role,Inglourious Basterds
+5155,CHRISTIAN BALE,2010,12,Actor in a Supporting Role,The Fighter
+5352,JARED LETO,2013,12,Actor in a Supporting Role,Dallas Buyers Club
+5422,J.K. SIMMONS,2014,12,Actor in a Supporting Role,Whiplash
+5491,MARK RYLANCE,2015,12,Actor in a Supporting Role,Bridge of Spies
+4,CLAUDETTE COLBERT,1934,13,Actress,It Happened One Night
+99,LUISE RAINER,1936,13,Actress,The Great Ziegfeld
+310,VIVIEN LEIGH,1939,13,Actress,Gone with the Wind
+383,GINGER ROGERS,1940,13,Actress,Kitty Foyle
+694,JENNIFER JONES,1943,13,Actress,The Song of Bernadette
+917,JOAN CRAWFORD,1945,13,Actress,Mildred Pierce
+1088,LORETTA YOUNG,1947,13,Actress,The Farmer's Daughter
+1297,JUDY HOLLIDAY,1950,13,Actress,Born Yesterday
+1430,SHIRLEY BOOTH,1952,13,Actress,"Come Back, Little Sheba"
+1507,AUDREY HEPBURN,1953,13,Actress,Roman Holiday
+1660,ANNA MAGNANI,1955,13,Actress,The Rose Tattoo
+1803,JOANNE WOODWARD,1957,13,Actress,The Three Faces of Eve
+1927,SIMONE SIGNORET,1959,13,Actress,Room at the Top
+2054,SOPHIA LOREN,1961,13,Actress,Two Women
+2123,ANNE BANCROFT,1962,13,Actress,The Miracle Worker
+2188,PATRICIA NEAL,1963,13,Actress,Hud
+2254,JULIE ANDREWS,1964,13,Actress,Mary Poppins
+2321,JULIE CHRISTIE,1965,13,Actress,Darling
+2522,BARBRA STREISAND,1968,13,Actress,Funny Girl
+2640,GLENDA JACKSON,1970,13,Actress,Women in Love
+2942,LOUISE FLETCHER,1975,13,Actress,One Flew over the Cuckoo's Nest
+3062,DIANE KEATON,1977,14,Actress in a Leading Role,Annie Hall
+3185,SALLY FIELD,1979,14,Actress in a Leading Role,Norma Rae
+3606,MARLEE MATLIN,1986,14,Actress in a Leading Role,Children of a Lesser God
+3797,JESSICA TANDY,1989,14,Actress in a Leading Role,Driving Miss Daisy
+3860,KATHY BATES,1990,14,Actress in a Leading Role,Misery
+3982,EMMA THOMPSON,1992,14,Actress in a Leading Role,Howards End
+4326,HELEN HUNT,1997,14,Actress in a Leading Role,As Good as It Gets
+4389,GWYNETH PALTROW,1998,14,Actress in a Leading Role,Shakespeare in Love
+4447,HILARY SWANK,1999,14,Actress in a Leading Role,Boys Don't Cry
+4575,HALLE BERRY,2001,14,Actress in a Leading Role,Monster's Ball
+4695,CHARLIZE THERON,2003,14,Actress in a Leading Role,Monster
+4825,REESE WITHERSPOON,2005,14,Actress in a Leading Role,Walk the Line
+4958,MARION COTILLARD,2007,14,Actress in a Leading Role,La Vie en Rose
+5088,SANDRA BULLOCK,2009,14,Actress in a Leading Role,The Blind Side
+5492,BRIE LARSON,2015,14,Actress in a Leading Role,Room
+104,GALE SONDERGAARD,1936,15,Actress in a Supporting Role,Anthony Adverse
+313,HATTIE MCDANIEL,1939,15,Actress in a Supporting Role,Gone with the Wind
+386,JANE DARWELL,1940,15,Actress in a Supporting Role,The Grapes of Wrath
+472,MARY ASTOR,1941,15,Actress in a Supporting Role,The Great Lie
+696,KATINA PAXINOU,1943,15,Actress in a Supporting Role,For Whom the Bell Tolls
+812,ETHEL BARRYMORE,1944,15,Actress in a Supporting Role,None but the Lonely Heart
+1023,ANNE BAXTER,1946,15,Actress in a Supporting Role,The Razor's Edge
+1090,CELESTE HOLM,1947,15,Actress in a Supporting Role,Gentleman's Agreement
+1228,MERCEDES MCCAMBRIDGE,1949,15,Actress in a Supporting Role,All the King's Men
+1300,JOSEPHINE HULL,1950,15,Actress in a Supporting Role,Harvey
+1369,KIM HUNTER,1951,15,Actress in a Supporting Role,A Streetcar Named Desire
+1511,DONNA REED,1953,15,Actress in a Supporting Role,From Here to Eternity
+1591,EVA MARIE SAINT,1954,15,Actress in a Supporting Role,On the Waterfront
+1664,JO VAN FLEET,1955,15,Actress in a Supporting Role,East of Eden
+1733,DOROTHY MALONE,1956,15,Actress in a Supporting Role,Written on the Wind
+1806,MIYOSHI UMEKI,1957,15,Actress in a Supporting Role,Sayonara
+1989,SHIRLEY JONES,1960,15,Actress in a Supporting Role,Elmer Gantry
+2057,RITA MORENO,1961,15,Actress in a Supporting Role,West Side Story
+2126,PATTY DUKE,1962,15,Actress in a Supporting Role,The Miracle Worker
+2193,MARGARET RUTHERFORD,1963,15,Actress in a Supporting Role,The V.I.P.s
+2258,LILA KEDROVA,1964,15,Actress in a Supporting Role,Zorba the Greek
+2395,SANDY DENNIS,1966,15,Actress in a Supporting Role,Who's Afraid of Virginia Woolf?
+2464,ESTELLE PARSONS,1967,15,Actress in a Supporting Role,Bonnie and Clyde
+2586,GOLDIE HAWN,1969,15,Actress in a Supporting Role,Cactus Flower
+2645,SALLY KELLERMAN,1970,15,Actress in a Supporting Role,MA*S*H
+2705,CLORIS LEACHMAN,1971,15,Actress in a Supporting Role,The Last Picture Show
+2821,TATUM O'NEAL,1973,15,Actress in a Supporting Role,Paper Moon
+3006,BEATRICE STRAIGHT,1976,15,Actress in a Supporting Role,Network
+3258,MARY STEENBURGEN,1980,15,Actress in a Supporting Role,Melvin and Howard
+3418,LINDA HUNT,1983,15,Actress in a Supporting Role,The Year of Living Dangerously
+3480,PEGGY ASHCROFT,1984,15,Actress in a Supporting Role,A Passage to India
+3544,ANJELICA HUSTON,1985,15,Actress in a Supporting Role,Prizzi's Honor
+3611,DIANNE WIEST,1986,15,Actress in a Supporting Role,Hannah and Her Sisters
+3674,OLYMPIA DUKAKIS,1987,15,Actress in a Supporting Role,Moonstruck
+3734,GEENA DAVIS,1988,15,Actress in a Supporting Role,The Accidental Tourist
+3798,BRENDA FRICKER,1989,15,Actress in a Supporting Role,My Left Foot
+3926,MERCEDES RUEHL,1991,15,Actress in a Supporting Role,The Fisher King
+3985,MARISA TOMEI,1992,15,Actress in a Supporting Role,My Cousin Vinny
+4049,ANNA PAQUIN,1993,15,Actress in a Supporting Role,The Piano
+4178,MIRA SORVINO,1995,15,Actress in a Supporting Role,Mighty Aphrodite
+4250,JULIETTE BINOCHE,1996,15,Actress in a Supporting Role,The English Patient
+4327,KIM BASINGER,1997,15,Actress in a Supporting Role,L.A. Confidential
+4449,ANGELINA JOLIE,1999,15,Actress in a Supporting Role,"Girl, Interrupted"
+4513,MARCIA GAY HARDEN,2000,15,Actress in a Supporting Role,Pollock
+4578,JENNIFER CONNELLY,2001,15,Actress in a Supporting Role,A Beautiful Mind
+4635,CATHERINE ZETA-JONES,2002,15,Actress in a Supporting Role,Chicago
+4827,RACHEL WEISZ,2005,15,Actress in a Supporting Role,The Constant Gardener
+4892,JENNIFER HUDSON,2006,15,Actress in a Supporting Role,Dreamgirls
+4963,TILDA SWINTON,2007,15,Actress in a Supporting Role,Michael Clayton
+5226,OCTAVIA SPENCER,2011,15,Actress in a Supporting Role,The Help
+5354,LUPITA NYONG'O,2013,15,Actress in a Supporting Role,12 Years a Slave
+5425,PATRICIA ARQUETTE,2014,15,Actress in a Supporting Role,Boyhood
+5496,ALICIA VIKANDER,2015,15,Actress in a Supporting Role,The Danish Girl
+4581,SHREK ,2001,16,Animated Feature Film,Aron Warner
+4639,SPIRITED AWAY ,2002,16,Animated Feature Film,Hayao Miyazaki
+4700,FINDING NEMO ,2003,16,Animated Feature Film,Andrew Stanton
+4758,THE INCREDIBLES ,2004,16,Animated Feature Film,Brad Bird
+4895,HAPPY FEET ,2006,16,Animated Feature Film,George Miller
+4965,RATATOUILLE ,2007,16,Animated Feature Film,Brad Bird
+5034,WALL-E ,2008,16,Animated Feature Film,Andrew Stanton
+5162,TOY STORY 3 ,2010,16,Animated Feature Film,Lee Unkrich
+5231,RANGO ,2011,16,Animated Feature Film,Gore Verbinski
+5291,BRAVE ,2012,16,Animated Feature Film,Mark Andrews and Brenda Chapman
+5359,FROZEN ,2013,16,Animated Feature Film,"Chris Buck, Jennifer Lee and Peter Del Vecho"
+5427,BIG HERO 6 ,2014,16,Animated Feature Film,"Don Hall, Chris Williams and Roy Conli"
+5499,INSIDE OUT,2015,16,Animated Feature Film,Pete Docter and Jonas Rivera
+9,THE MERRY WIDOW ,1934,17,Art Direction,"Cedric Gibbons, Fredric Hope"
+45,THE DARK ANGEL ,1935,17,Art Direction,Richard Day
+106,DODSWORTH ,1936,17,Art Direction,Richard Day
+172,LOST HORIZON ,1937,17,Art Direction,Stephen Goosson
+234,THE ADVENTURES OF ROBIN HOOD ,1938,17,Art Direction,Carl J. Weyl
+318,GONE WITH THE WIND ,1939,17,Art Direction,Lyle Wheeler
+3263,TESS ,1980,17,Art Direction,"Art Direction: Pierre Guffroy, Jack Stephens"
+3421,FANNY & ALEXANDER ,1983,17,Art Direction,Anna Asp
+4184,RESTORATION ,1995,17,Art Direction,Eugenio Zanetti
+4515,"CROUCHING TIGER, HIDDEN DRAGON ",2000,17,Art Direction,Tim Yip
+399,PRIDE AND PREJUDICE ,1940,18,Art Direction (Black and White),"Cedric Gibbons, Paul Groesse"
+1596,ON THE WATERFRONT ,1954,18,Art Direction (Black and White),Richard Day
+2195,AMERICA AMERICA ,1963,18,Art Direction (Black and White),Gene Callahan
+2263,ZORBA THE GREEK ,1964,18,Art Direction (Black and White),Vassilis Fotopoulos
+406,THE THIEF OF BAGDAD ,1940,19,Art Direction (Color),Vincent Korda
+12,VIVA VILLA! ,1934,20,Assistant Director,John Waters
+112,THE CHARGE OF THE LIGHT BRIGADE ,1936,20,Assistant Director,Jack Sullivan
+179,IN OLD CHICAGO ,1937,20,Assistant Director,Robert Webb
+4316,JOE LOMBARDI,1996,21,Award of Commendation,
+4506,"FPC, INCORPORATED",1999,21,Award of Commendation,
+4569,"IOAN ALLEN, ROBIN BRANSBURY AND MARK HARRAH",2000,21,Award of Commendation,
+4626,RUNE ERICSON,2001,21,Award of Commendation,
+4814,ARTHUR WIDMER,2004,21,Award of Commendation,
+5021,JONATHAN ERLAND,2007,21,Award of Commendation,
+5488,"STEVEN TIFFEN, JEFF COHEN AND MICHAEL FECIK",2014,21,Award of Commendation,
+181,THE GOOD EARTH ,1937,24,Cinematography,Karl Freund
+246,THE GREAT WALTZ ,1938,24,Cinematography,Joseph Ruttenberg
+1814,THE BRIDGE ON THE RIVER KWAI ,1957,24,Cinematography,Jack Hildyard
+2472,BONNIE AND CLYDE ,1967,24,Cinematography,Burnett Guffey
+2595,BUTCH CASSIDY AND THE SUNDANCE KID ,1969,24,Cinematography,Conrad Hall
+2651,RYAN'S DAUGHTER ,1970,24,Cinematography,Freddie Young
+2828,CRIES AND WHISPERS ,1973,24,Cinematography,Sven Nykvist
+3012,BOUND FOR GLORY ,1976,24,Cinematography,Haskell Wexler
+3135,DAYS OF HEAVEN ,1978,24,Cinematography,Nestor Almendros
+3488,THE KILLING FIELDS ,1984,24,Cinematography,Chris Menges
+3742,MISSISSIPPI BURNING ,1988,24,Cinematography,Peter Biziou
+3932,JFK ,1991,24,Cinematography,Robert Richardson
+3993,A RIVER RUNS THROUGH IT ,1992,24,Cinematography,Philippe Rousselot
+4187,BRAVEHEART ,1995,24,Cinematography,John Toll
+4458,AMERICAN BEAUTY ,1999,24,Cinematography,Conrad L. Hall
+5041,SLUMDOG MILLIONAIRE ,2008,24,Cinematography,Anthony Dod Mantle
+5298,LIFE OF PI ,2012,24,Cinematography,Claudio Miranda
+5362,GRAVITY ,2013,24,Cinematography,Emmanuel Lubezki
+605,MRS. MINIVER ,1942,25,Cinematography (Black and White),Joseph Ruttenberg
+1167,THE NAKED CITY ,1948,25,Cinematography (Black and White),William Daniels
+1235,BATTLEGROUND ,1949,25,Cinematography (Black and White),Paul C. Vogel
+1311,THE THIRD MAN ,1950,25,Cinematography (Black and White),Robert Krasker
+1382,A PLACE IN THE SUN ,1951,25,Cinematography (Black and White),William C. Mellor
+1523,FROM HERE TO ETERNITY ,1953,25,Cinematography (Black and White),Burnett Guffey
+1871,THE DEFIANT ONES ,1958,25,Cinematography (Black and White),Sam Leavitt
+609,THE BLACK SWAN ,1942,26,Cinematography (Color),Leon Shamroy
+1241,SHE WORE A YELLOW RIBBON ,1949,26,Cinematography (Color),Winton Hoch
+1314,KING SOLOMON'S MINES ,1950,26,Cinematography (Color),Robert Surtees
+1526,SHANE ,1953,26,Cinematography (Color),Loyal Griggs
+1607,THREE COINS IN THE FOUNTAIN ,1954,26,Cinematography (Color),Milton Krasner
+2411,A MAN FOR ALL SEASONS ,1966,26,Cinematography (Color),Ted Moore
+2653,CROMWELL ,1970,27,Costume Design,Nino Novarese
+2892,THE GREAT GATSBY ,1974,27,Costume Design,Theoni V. Aldredge
+3015,FELLINI'S CASANOVA ,1976,27,Costume Design,Danilo Donati
+3139,DEATH ON THE NILE ,1978,27,Costume Design,Anthony Powell
+3320,CHARIOTS OF FIRE ,1981,27,Costume Design,Milena Canonero
+4976,ELIZABETH: THE GOLDEN AGE ,2007,27,Costume Design,Alexandra Byrne
+2340,DARLING ,1965,28,Costume Design (Black and White),Julie Harris
+1611,GATE OF HELL ,1954,29,Costume Design (Color),Sanzo Wada
+14,IT HAPPENED ONE NIGHT ,1934,31,Directing,Frank Capra
+61,THE INFORMER ,1935,31,Directing,John Ford
+121,MR. DEEDS GOES TO TOWN ,1936,31,Directing,Frank Capra
+184,THE AWFUL TRUTH ,1937,31,Directing,Leo McCarey
+416,THE GRAPES OF WRATH ,1940,31,Directing,John Ford
+1034,THE BEST YEARS OF OUR LIVES ,1946,31,Directing,William Wyler
+1102,GENTLEMAN'S AGREEMENT ,1947,31,Directing,Elia Kazan
+1176,THE TREASURE OF THE SIERRA MADRE ,1948,31,Directing,John Huston
+1245,A LETTER TO THREE WIVES ,1949,31,Directing,Joseph L. Mankiewicz
+2598,MIDNIGHT COWBOY ,1969,31,Directing,John Schlesinger
+2658,MA*S*H ,1970,31,Directing,Robert Altman
+3019,ROCKY ,1976,31,Directing,John G. Avildsen
+3077,ANNIE HALL ,1977,31,Directing,Woody Allen
+3270,ORDINARY PEOPLE ,1980,31,Directing,Robert Redford
+3937,THE SILENCE OF THE LAMBS ,1991,31,Directing,Jonathan Demme
+4526,TRAFFIC ,2000,31,Directing,Steven Soderbergh
+4589,A BEAUTIFUL MIND ,2001,31,Directing,Ron Howard
+4770,MILLION DOLLAR BABY ,2004,31,Directing,Clint Eastwood
+4909,THE DEPARTED ,2006,31,Directing,Martin Scorsese
+614,THE BATTLE OF MIDWAY ,1942,32,Documentary,United States Navy
+623,KOKODA FRONT LINE! ,1942,32,Documentary,Australian News & Information Bureau
+629,MOSCOW STRIKES BACK ,1942,32,Documentary,Artkino
+631,PRELUDE TO WAR ,1942,32,Documentary,United States Army Special Services
+722,DESERT VICTORY ,1943,33,Documentary (Feature),British Ministry of Information
+840,THE FIGHTING LADY ,1944,33,Documentary (Feature),United States Navy
+1178,THE SECRET LAND ,1948,33,Documentary (Feature),"Orville O. Dull, Producer"
+1246,DAYBREAK IN UDI ,1949,33,Documentary (Feature),Crown Film Unit
+1319,THE TITAN: STORY OF MICHELANGELO ,1950,33,Documentary (Feature),"Robert Snyder, Producer"
+1393,KON-TIKI ,1951,33,Documentary (Feature),"Olle Nordemar, Producer"
+1455,THE SEA AROUND US ,1952,33,Documentary (Feature),"Irwin Allen, Producer"
+1534,THE LIVING DESERT ,1953,33,Documentary (Feature),"Walt Disney, Producer"
+1615,THE VANISHING PRAIRIE ,1954,33,Documentary (Feature),"Walt Disney, Producer"
+1687,HELEN KELLER IN HER STORY ,1955,33,Documentary (Feature),"Nancy Hamilton, Producer"
+1753,THE SILENT WORLD ,1956,33,Documentary (Feature),"Jacques-Yves Cousteau, Producer"
+1818,ALBERT SCHWEITZER ,1957,33,Documentary (Feature),"Jerome Hill, Producer"
+1884,WHITE WILDERNESS ,1958,33,Documentary (Feature),"Ben Sharpsteen, Producer"
+1950,SERENGETI SHALL NOT DIE ,1959,33,Documentary (Feature),"Bernhard Grzimek, Producer"
+2013,THE HORSE WITH THE FLYING TAIL ,1960,33,Documentary (Feature),"Larry Lansburgh, Producer"
+2149,BLACK FOX ,1962,33,Documentary (Feature),"Louis Clyde Stoumen, Producer"
+2278,JACQUES-YVES COUSTEAU'S WORLD WITHOUT SUN ,1964,33,Documentary (Feature),"Jacques-Yves Cousteau, Producer"
+2344,THE ELEANOR ROOSEVELT STORY ,1965,33,Documentary (Feature),"Sidney Glazier, Producer"
+2421,THE WAR GAME ,1966,33,Documentary (Feature),"Peter Watkins, Producer"
+2477,THE ANDERSON PLATOON ,1967,33,Documentary (Feature),"Pierre Schoendoerffer, Producer"
+2535,JOURNEY INTO SELF ,1968,33,Documentary (Feature),"Bill McGaw, Producer"
+2600,ARTHUR RUBINSTEIN - THE LOVE OF LIFE ,1969,33,Documentary (Feature),"Bernard Chevry, Producer"
+2663,WOODSTOCK ,1970,33,Documentary (Feature),"Bob Maurice, Producer"
+2720,THE HELLSTROM CHRONICLE ,1971,33,Documentary (Feature),"Walon Green, Producer"
+2777,MARJOE ,1972,33,Documentary (Feature),"Howard Smith and Sarah Kernochan, Producers"
+2835,THE GREAT AMERICAN COWBOY ,1973,33,Documentary (Feature),"Kieth Merrill, Producer"
+2897,HEARTS AND MINDS ,1974,33,Documentary (Feature),"Peter Davis and Bert Schneider, Producers"
+3021,"HARLAN COUNTY, U.S.A. ",1976,33,Documentary (Feature),"Barbara Kopple, Producer"
+3146,SCARED STRAIGHT! ,1978,33,Documentary (Feature),"Arnold Shapiro, Producer"
+3203,BEST BOY ,1979,33,Documentary (Feature),"Ira Wohl, Producer"
+3274,FROM MAO TO MOZART: ISAAC STERN IN CHINA ,1980,33,Documentary (Feature),"Murray Lerner, Producer"
+3382,JUST ANOTHER MISSING KID ,1982,33,Documentary (Feature),"John Zaritsky, Producer"
+3437,HE MAKES ME FEEL LIKE DANCIN' ,1983,33,Documentary (Feature),"Emile Ardolino, Producer"
+3556,BROKEN RAINBOW ,1985,33,Documentary (Feature),"Maria Florio and Victoria Mudd, Producers"
+3623,ARTIE SHAW: TIME IS ALL YOU'VE GOT ,1986,33,Documentary (Feature),"Brigitte Berman, Producer"
+3625,DOWN AND OUT IN AMERICA ,1986,33,Documentary (Feature),"Joseph Feury and Milton Justice, Producers"
+3815,COMMON THREADS: STORIES FROM THE QUILT ,1989,33,Documentary (Feature),"Robert Epstein and Bill Couturié, Producers"
+3873,AMERICAN DREAM ,1990,33,Documentary (Feature),"Barbara Kopple and Arthur Cohn, Producers"
+3940,IN THE SHADOW OF THE STARS ,1991,33,Documentary (Feature),"Allie Light and Irving Saraf, Producers"
+4001,THE PANAMA DECEPTION ,1992,33,Documentary (Feature),"Barbara Trent and David Kasper, Producers"
+4126,MAYA LIN: A STRONG CLEAR VISION ,1994,33,Documentary (Feature),"Freida Lee Mock, Terry Sanders"
+4194,ANNE FRANK REMEMBERED ,1995,33,Documentary (Feature),Jon Blair
+4270,WHEN WE WERE KINGS ,1996,33,Documentary (Feature),"Leon Gast, David Sonenberg"
+4343,THE LONG WAY HOME ,1997,33,Documentary (Feature),"Rabbi Marvin Hier, Richard Trank"
+4404,THE LAST DAYS ,1998,33,Documentary (Feature),"James Moll, Ken Lipper"
+4468,ONE DAY IN SEPTEMBER ,1999,33,Documentary (Feature),"Arthur Cohn, Kevin Macdonald"
+4593,MURDER ON A SUNDAY MORNING ,2001,33,Documentary (Feature),"Jean-Xavier de Lestrade, Denis Poncet"
+4650,BOWLING FOR COLUMBINE ,2002,33,Documentary (Feature),"Michael Moore, Michael Donovan"
+4713,THE FOG OF WAR ,2003,33,Documentary (Feature),Errol Morris and Michael Williams
+4773,BORN INTO BROTHELS ,2004,33,Documentary (Feature),Ross Kauffman and Zana Briski
+4847,MARCH OF THE PENGUINS ,2005,33,Documentary (Feature),Luc Jacquet and Yves Darondeau
+4913,AN INCONVENIENT TRUTH ,2006,33,Documentary (Feature),Davis Guggenheim
+4983,TAXI TO THE DARK SIDE ,2007,33,Documentary (Feature),Alex Gibney and Eva Orner
+5048,MAN ON WIRE ,2008,33,Documentary (Feature),James Marsh and Simon Chinn
+5113,THE COVE ,2009,33,Documentary (Feature),Louie Psihoyos and Fisher Stevens
+5174,INSIDE JOB ,2010,33,Documentary (Feature),Charles Ferguson and Audrey Marrs
+5247,UNDEFEATED ,2011,33,Documentary (Feature),"TJ Martin, Dan Lindsay and Rich Middlemas"
+5311,SEARCHING FOR SUGAR MAN ,2012,33,Documentary (Feature),Malik Bendjelloul and Simon Chinn
+5512,AMY,2015,33,Documentary (Feature),Asif Kapadia and James Gay-Rees
+499,CHURCHILL'S ISLAND ,1941,35,Documentary (Short Subject),National Film Board of Canada
+731,DECEMBER 7TH ,1943,35,Documentary (Short Subject),United States Navy
+844,WITH THE MARINES AT TARAWA ,1944,35,Documentary (Short Subject),United States Marine Corps
+942,HITLER LIVES? ,1945,35,Documentary (Short Subject),"Gordon Hollingshead, Producer"
+1041,SEEDS OF DESTINY ,1946,35,Documentary (Short Subject),United States Department of War
+1181,TOWARD INDEPENDENCE ,1948,35,Documentary (Short Subject),United States Army
+1248,A CHANCE TO LIVE ,1949,35,Documentary (Short Subject),"Richard de Rochemont, Producer"
+1251,SO MUCH FOR SO LITTLE ,1949,35,Documentary (Short Subject),"Edward Selzer, Producer"
+1323,WHY KOREA? ,1950,35,Documentary (Short Subject),"Edmund Reek, Producer"
+1459,NEIGHBOURS ,1952,35,Documentary (Short Subject),"Norman McLaren, Producer"
+1536,THE ALASKAN ESKIMO ,1953,35,Documentary (Short Subject),"Walt Disney, Producer"
+1618,THURSDAY'S CHILDREN ,1954,35,Documentary (Short Subject),World Wide Pictures and Morse Films
+1690,MEN AGAINST THE ARCTIC ,1955,35,Documentary (Short Subject),"Walt Disney, Producer"
+1759,THE TRUE STORY OF THE CIVIL WAR ,1956,35,Documentary (Short Subject),"Louis Clyde Stoumen, Producer"
+1885,AMA GIRLS ,1958,35,Documentary (Short Subject),"Ben Sharpsteen, Producer"
+1953,GLASS ,1959,35,Documentary (Short Subject),"Bert Haanstra, Producer"
+2018,GIUSEPPINA ,1960,35,Documentary (Short Subject),"James Hill, Producer"
+2083,PROJECT HOPE ,1961,35,Documentary (Short Subject),"Frank P. Bibas, Producer"
+2150,DYLAN THOMAS ,1962,35,Documentary (Short Subject),"Jack Howells, Producer"
+2218,CHAGALL ,1963,35,Documentary (Short Subject),"Simon Schiffrin, Producer"
+2283,NINE FROM LITTLE ROCK ,1964,35,Documentary (Short Subject),"Charles Guggenheim, Producer"
+2351,TO BE ALIVE! ,1965,35,Documentary (Short Subject),"Francis Thompson, Producer"
+2425,A YEAR TOWARD TOMORROW ,1966,35,Documentary (Short Subject),"Edmond A. Levy, Producer"
+2484,THE REDWOODS ,1967,35,Documentary (Short Subject),"Mark Harris and Trevor Greenwood, Producers"
+2543,WHY MAN CREATES ,1968,35,Documentary (Short Subject),"Saul Bass, Producer"
+2605,CZECHOSLOVAKIA 1968 ,1969,35,Documentary (Short Subject),"Denis Sanders and Robert M. Fresco, Producers"
+2665,INTERVIEWS WITH MY LAI VETERANS ,1970,35,Documentary (Short Subject),"Joseph Strick, Producer"
+2727,SENTINELS OF SILENCE ,1971,35,Documentary (Short Subject),"Manuel Arango and Robert Amram, Producers"
+2900,DON'T ,1974,35,Documentary (Short Subject),"Robin Lehman, Producer"
+2965,THE END OF THE GAME ,1975,35,Documentary (Short Subject),"Claire Wilbur and Robin Lehman, Producers"
+3029,NUMBER OUR DAYS ,1976,35,Documentary (Short Subject),"Lynne Littman, Producer"
+3085,GRAVITY IS MY ENEMY ,1977,35,Documentary (Short Subject),"John Joseph and Jan Stussy, Producers"
+3211,PAUL ROBESON: TRIBUTE TO AN ARTIST ,1979,35,Documentary (Short Subject),"Saul J. Turell, Producer"
+3280,KARL HESS: TOWARD LIBERTY ,1980,35,Documentary (Short Subject),"Roland Hallé and Peter W. Ladue, Producers"
+3329,CLOSE HARMONY ,1981,35,Documentary (Short Subject),"Nigel Noble, Producer"
+3385,IF YOU LOVE THIS PLANET ,1982,35,Documentary (Short Subject),"Edward Le Lorrain and Terri Nash, Producers"
+3440,FLAMENCO AT 5:15 ,1983,35,Documentary (Short Subject),"Cynthia Scott and Adam Symansky, Producers"
+3502,THE STONE CARVERS ,1984,35,Documentary (Short Subject),"Marjorie Hunt and Paul Wagner, Producers"
+3564,WITNESS TO WAR: DR. CHARLIE CLEMENTS ,1985,35,Documentary (Short Subject),"David Goodman, Producer"
+3632,"WOMEN--FOR AMERICA, FOR THE WORLD ",1986,35,Documentary (Short Subject),"Vivienne Verdon-Roe, Producer"
+3698,YOUNG AT HEART ,1987,35,Documentary (Short Subject),"Sue Marx and Pamela Conn, Producers"
+3820,THE JOHNSTOWN FLOOD ,1989,35,Documentary (Short Subject),"Charles Guggenheim, Producer"
+3880,DAYS OF WAITING ,1990,35,Documentary (Short Subject),"Steven Okazaki, Producer"
+4070,DEFENDING OUR LIVES ,1993,35,Documentary (Short Subject),"Margaret Lazarus, Renner Wunderlich"
+4131,A TIME FOR JUSTICE ,1994,35,Documentary (Short Subject),Charles Guggenheim
+4202,ONE SURVIVOR REMEMBERS ,1995,35,Documentary (Short Subject),Kary Antholis
+4349,A STORY OF HEALING ,1997,35,Documentary (Short Subject),"Donna Dewey, Carol Pasternak"
+4471,KING GIMP ,1999,35,Documentary (Short Subject),"Susan Hannah Hadary, William A. Whiteford"
+4532,BIG MAMA ,2000,35,Documentary (Short Subject),Tracy Seretean
+4598,THOTH ,2001,35,Documentary (Short Subject),"Sarah Kernochan, Lynn Appelle"
+4656,TWIN TOWERS ,2002,35,Documentary (Short Subject),"Bill Guttentag, Robert David Port"
+4717,CHERNOBYL HEART ,2003,35,Documentary (Short Subject),Maryann DeLeo
+4781,MIGHTY TIMES: THE CHILDREN'S MARCH ,2004,35,Documentary (Short Subject),Robert Hudson and Bobby Houston
+4917,THE BLOOD OF YINGZHOU DISTRICT ,2006,35,Documentary (Short Subject),Ruby Yang and Thomas Lennon
+4985,FREEHELD ,2007,35,Documentary (Short Subject),Cynthia Wade and Vanessa Roth
+5052,SMILE PINKI ,2008,35,Documentary (Short Subject),Megan Mylan
+5120,MUSIC BY PRUDENCE ,2009,35,Documentary (Short Subject),Roger Ross Williams and Elinor Burkett
+5179,STRANGERS NO MORE ,2010,35,Documentary (Short Subject),Karen Goodman and Kirk Simon
+5251,SAVING FACE ,2011,35,Documentary (Short Subject),Daniel Junge and Sharmeen Obaid-Chinoy
+5312,INOCENTE ,2012,35,Documentary (Short Subject),Sean Fine and Andrea Nix Fine
+5377,THE LADY IN NUMBER 6: MUSIC SAVED MY LIFE ,2013,35,Documentary (Short Subject),Malcolm Clarke and Nicholas Reed
+5448,CRISIS HOTLINE: VETERANS PRESS 1 ,2014,35,Documentary (Short Subject),Ellen Goosenberg Kent and Dana Perry
+5520,A GIRL IN THE RIVER: THE PRICE OF FORGIVENESS,2015,35,Documentary (Short Subject),Sharmeen Obaid-Chinoy
+17,ESKIMO ,1934,36,Film Editing,Conrad Nervig
+1109,BODY AND SOUL ,1947,36,Film Editing,"Francis Lyon, Robert Parrish"
+2544,BULLITT ,1968,36,Film Editing,Frank P. Keller
+2969,JAWS ,1975,36,Film Editing,Verna Fields
+4473,THE MATRIX ,1999,36,Film Editing,Zach Staenberg
+4989,THE BOURNE ULTIMATUM ,2007,36,Film Editing,Christopher Rouse
+5317,ARGO ,2012,36,Film Editing,William Goldenberg
+5454,WHIPLASH ,2014,36,Film Editing,Tom Cross
+1825,THE NIGHTS OF CABIRIA ,1957,37,Foreign Language Film,Italy
+1893,MY UNCLE ,1958,37,Foreign Language Film,France
+1955,BLACK ORPHEUS ,1959,37,Foreign Language Film,France
+2089,THROUGH A GLASS DARKLY ,1961,37,Foreign Language Film,Sweden
+2157,SUNDAYS AND CYBELE ,1962,37,Foreign Language Film,France
+2290,"YESTERDAY, TODAY AND TOMORROW ",1964,37,Foreign Language Film,Italy
+2359,THE SHOP ON MAIN STREET ,1965,37,Foreign Language Film,Czechoslovakia
+2489,CLOSELY WATCHED TRAINS ,1967,37,Foreign Language Film,Czechoslovakia
+2670,INVESTIGATION OF A CITIZEN ABOVE SUSPICION ,1970,37,Foreign Language Film,Italy
+2732,THE GARDEN OF THE FINZI CONTINIS ,1971,37,Foreign Language Film,Italy
+2786,THE DISCREET CHARM OF THE BOURGEOISIE ,1972,37,Foreign Language Film,France
+2844,DAY FOR NIGHT ,1973,37,Foreign Language Film,France
+2906,AMARCORD ,1974,37,Foreign Language Film,Italy
+2971,DERSU UZALA ,1975,37,Foreign Language Film,Union of Soviet Socialist Republics
+3031,BLACK AND WHITE IN COLOR ,1976,37,Foreign Language Film,Ivory Coast
+3090,MADAME ROSA ,1977,37,Foreign Language Film,France
+3154,GET OUT YOUR HANDKERCHIEFS ,1978,37,Foreign Language Film,France
+3218,THE TIN DRUM ,1979,37,Foreign Language Film,Federal Republic of Germany
+3286,MOSCOW DOES NOT BELIEVE IN TEARS ,1980,37,Foreign Language Film,Union of Soviet Socialist Republics
+3335,MEPHISTO ,1981,37,Foreign Language Film,Hungary
+3394,VOLVER A EMPEZAR ('TO BEGIN AGAIN') ,1982,37,Foreign Language Film,Spain
+3506,DANGEROUS MOVES ,1984,37,Foreign Language Film,Switzerland
+3570,THE OFFICIAL STORY ,1985,37,Foreign Language Film,Argentina
+3634,THE ASSAULT ,1986,37,Foreign Language Film,The Netherlands
+3701,BABETTE'S FEAST ,1987,37,Foreign Language Film,Denmark
+3765,PELLE THE CONQUEROR ,1988,37,Foreign Language Film,Denmark
+3824,CINEMA PARADISO ,1989,37,Foreign Language Film,Italy
+3885,JOURNEY OF HOPE ,1990,37,Foreign Language Film,Switzerland
+3951,MEDITERRANEO ,1991,37,Foreign Language Film,Italy
+4011,INDOCHINE ,1992,37,Foreign Language Film,France
+4072,BELLE EPOQUE ,1993,37,Foreign Language Film,Spain
+4135,BURNT BY THE SUN ,1994,37,Foreign Language Film,Russia
+4207,ANTONIA'S LINE ,1995,37,Foreign Language Film,The Netherlands
+4278,KOLYA ,1996,37,Foreign Language Film,Czech Republic
+4352,CHARACTER ,1997,37,Foreign Language Film,The Netherlands
+4474,ALL ABOUT MY MOTHER ,1999,37,Foreign Language Film,Spain
+4602,NO MAN'S LAND ,2001,37,Foreign Language Film,Bosnia & Herzegovina
+4661,NOWHERE IN AFRICA ,2002,37,Foreign Language Film,Germany
+4719,THE BARBARIAN INVASIONS ,2003,37,Foreign Language Film,Canada
+4787,THE SEA INSIDE ,2004,37,Foreign Language Film,Spain
+4860,TSOTSI ,2005,37,Foreign Language Film,South Africa
+4924,THE LIVES OF OTHERS ,2006,37,Foreign Language Film,Germany
+4992,THE COUNTERFEITERS ,2007,37,Foreign Language Film,Austria
+5056,DEPARTURES ,2008,37,Foreign Language Film,Japan
+5126,THE SECRET IN THEIR EYES ,2009,37,Foreign Language Film,Argentina
+5185,IN A BETTER WORLD ,2010,37,Foreign Language Film,Denmark
+5258,A SEPARATION ,2011,37,Foreign Language Film,Iran
+5382,THE GREAT BEAUTY ,2013,37,Foreign Language Film,Italy
+5525,SON OF SAUL,2015,37,Foreign Language Film,Hungary
+3357,JOSEPH B. WALKER,1981,38,Gordon E. Sawyer Award,
+3471,DR. JOHN G. FRAYNE,1983,38,Gordon E. Sawyer Award,
+3790,GORDON HENRY COOK,1988,38,Gordon E. Sawyer Award,
+3852,PIERRE ANGENIEUX,1989,38,Gordon E. Sawyer Award,
+3914,STEFAN KUDELSKI,1990,38,Gordon E. Sawyer Award,
+3972,RAY HARRYHAUSEN,1991,38,Gordon E. Sawyer Award,
+4038,ERICH KAESTNER,1992,38,Gordon E. Sawyer Award,
+4238,DONALD C. ROGERS,1995,38,Gordon E. Sawyer Award,
+4382,DON IWERKS,1997,38,Gordon E. Sawyer Award,
+4568,IRWIN W. YOUNG,2000,38,Gordon E. Sawyer Award,
+4746,PETER D. PARKS,2003,38,Gordon E. Sawyer Award,
+4882,GARY DEMOS,2005,38,Gordon E. Sawyer Award,
+5020,DAVID A. GRAFTON,2007,38,Gordon E. Sawyer Award,
+5081,ED CATMULL,2008,38,Gordon E. Sawyer Award,
+5286,DOUGLAS TRUMBULL,2011,38,Gordon E. Sawyer Award,
+5416,PETER W. ANDERSON,2013,38,Gordon E. Sawyer Award,
+5487,DAVID WINCHESTER GRAY,2014,38,Gordon E. Sawyer Award,
+1357,GEORGE MURPHY,1950,39,Honorary Award,
+1358,LOUIS B. MAYER,1950,39,Honorary Award,
+1496,GEORGE ALFRED MITCHELL,1952,39,Honorary Award,
+1497,JOSEPH M. SCHENCK,1952,39,Honorary Award,
+1498,MERIAN C. COOPER,1952,39,Honorary Award,
+1499,HAROLD LLOYD,1952,39,Honorary Award,
+1577,PETE SMITH,1953,39,Honorary Award,
+1578,20TH CENTURY-FOX FILM CORPORATION,1953,39,Honorary Award,
+1579,JOSEPH I. BREEN,1953,39,Honorary Award,
+1580,BELL AND HOWELL COMPANY,1953,39,Honorary Award,
+1649,BAUSCH & LOMB OPTICAL COMPANY,1954,39,Honorary Award,
+1650,KEMP R. NIVER,1954,39,Honorary Award,
+1651,DANNY KAYE,1954,39,Honorary Award,
+1652,JON WHITELEY,1954,39,Honorary Award,The Little Kidnappers
+1653,VINCENT WINTER,1954,39,Honorary Award,The Little Kidnappers
+1794,EDDIE CANTOR,1956,39,Honorary Award,
+1851,CHARLES BRACKETT,1957,39,Honorary Award,
+1852,B.B. KAHANE,1957,39,Honorary Award,
+1853,"GILBERT M. (BRONCHO BILLY"""") ANDERSON""""",1957,39,Honorary Award,
+1981,LEE DE FOREST,1959,39,Honorary Award,
+1982,BUSTER KEATON,1959,39,Honorary Award,
+2047,STAN LAUREL,1960,39,Honorary Award,
+2048,HAYLEY MILLS,1960,39,Honorary Award,Pollyanna
+2112,WILLIAM L. HENDRICKS,1961,39,Honorary Award,A Force in Readiness
+2113,FRED L. METZLER,1961,39,Honorary Award,
+2114,JEROME ROBBINS,1961,39,Honorary Award,
+2313,WILLIAM TUTTLE,1964,39,Honorary Award,7 Faces of Dr. Lao
+2453,YAKIMA CANUTT,1966,39,Honorary Award,
+2574,JOHN CHAMBERS,1968,39,Honorary Award,Planet of the Apes
+2575,ONNA WHITE,1968,39,Honorary Award,Oliver!
+2809,CHARLES S. BOREN,1972,39,Honorary Award,
+2810,EDWARD G. ROBINSON,1972,39,Honorary Award,
+2871,HENRI LANGLOIS,1973,39,Honorary Award,
+2872,GROUCHO MARX,1973,39,Honorary Award,
+2934,HOWARD HAWKS,1974,39,Honorary Award,
+2935,JEAN RENOIR,1974,39,Honorary Award,
+3119,MARGARET BOOTH,1977,39,Honorary Award,
+3178,WALTER LANTZ,1978,39,Honorary Award,
+3179,THE MUSEUM OF MODERN ART DEPARTMENT OF FILM,1978,39,Honorary Award,
+3244,HAL ELIAS,1979,39,Honorary Award,
+3470,HAL ROACH,1983,39,Honorary Award,
+3533,THE NATIONAL ENDOWMENT FOR THE ARTS,1984,39,Honorary Award,
+3597,ALEX NORTH,1985,39,Honorary Award,
+3788,THE NATIONAL FILM BOARD OF CANADA,1988,39,Honorary Award,
+3789,EASTMAN KODAK COMPANY,1988,39,Honorary Award,
+3851,AKIRA KUROSAWA,1989,39,Honorary Award,
+3912,MYRNA LOY,1990,39,Honorary Award,
+3970,SATYAJIT RAY,1991,39,Honorary Award,
+4037,FEDERICO FELLINI,1992,39,Honorary Award,
+4164,MICHELANGELO ANTONIONI,1994,39,Honorary Award,
+4237,CHUCK JONES,1995,39,Honorary Award,
+4314,MICHAEL KIDD,1996,39,Honorary Award,
+4381,STANLEY DONEN,1997,39,Honorary Award,
+4439,ELIA KAZAN,1998,39,Honorary Award,
+4505,ANDRZEJ WAJDA,1999,39,Honorary Award,
+4565,JACK CARDIFF,2000,39,Honorary Award,
+4566,ERNEST LEHMAN,2000,39,Honorary Award,
+4745,BLAKE EDWARDS,2003,39,Honorary Award,
+4813,SIDNEY LUMET,2004,39,Honorary Award,
+4881,ROBERT ALTMAN,2005,39,Honorary Award,
+4952,ENNIO MORRICONE,2006,39,Honorary Award,
+5019,ROBERT BOYLE,2007,39,Honorary Award,
+5150,ROGER CORMAN,2009,39,Honorary Award,
+5151,GORDON WILLIS,2009,39,Honorary Award,
+5213,KEVIN BROWNLOW,2010,39,Honorary Award,
+5214,JEAN-LUC GODARD,2010,39,Honorary Award,
+5215,ELI WALLACH,2010,39,Honorary Award,
+5284,JAMES EARL JONES.,2011,39,Honorary Award,
+5285,DICK SMITH,2011,39,Honorary Award,
+5344,HAL NEEDHAM,2012,39,Honorary Award,
+5345,D.A. PENNEBAKER,2012,39,Honorary Award,
+5346,"GEORGE STEVENS, JR.",2012,39,Honorary Award,
+5414,STEVE MARTIN,2013,39,Honorary Award,
+5415,PIERO TOSI,2013,39,Honorary Award,
+5484,JEAN-CLAUDE CARRIÈRE,2014,39,Honorary Award,
+5485,HAYAO MIYAZAKI,2014,39,Honorary Award,
+5486,MAUREEN O'HARA,2014,39,Honorary Award,
+5549,SPIKE LEE,2015,39,Honorary Award,
+1356,THE WALLS OF MALAPAGA,1950,40,Honorary Foreign Language Film Award,
+1423,RASHOMON,1951,40,Honorary Foreign Language Film Award,
+1648,GATE OF HELL,1954,40,Honorary Foreign Language Film Award,
+1722,"SAMURAI, THE LEGEND OF MUSASHI",1955,40,Honorary Foreign Language Film Award,
+222,DARRYL F. ZANUCK,1937,41,Irving G. Thalberg Memorial Award,
+300,HAL B. WALLIS,1938,41,Irving G. Thalberg Memorial Award,
+687,SIDNEY FRANKLIN,1942,41,Irving G. Thalberg Memorial Award,
+1215,JERRY WALD,1948,41,Irving G. Thalberg Memorial Award,
+1424,ARTHUR FREED,1951,41,Irving G. Thalberg Memorial Award,
+1581,GEORGE STEVENS,1953,41,Irving G. Thalberg Memorial Award,
+1795,BUDDY ADLER,1956,41,Irving G. Thalberg Memorial Award,
+1919,JACK L. WARNER,1958,41,Irving G. Thalberg Memorial Award,
+2115,STANLEY KRAMER,1961,41,Irving G. Thalberg Memorial Award,
+2249,SAM SPIEGEL,1963,41,Irving G. Thalberg Memorial Award,
+2382,WILLIAM WYLER,1965,41,Irving G. Thalberg Memorial Award,
+2454,ROBERT WISE,1966,41,Irving G. Thalberg Memorial Award,
+2513,ALFRED HITCHCOCK,1967,41,Irving G. Thalberg Memorial Award,
+2693,INGMAR BERGMAN,1970,41,Irving G. Thalberg Memorial Award,
+2873,LAWRENCE WEINGARTEN,1973,41,Irving G. Thalberg Memorial Award,
+2997,MERVYN LEROY,1975,41,Irving G. Thalberg Memorial Award,
+3056,PANDRO S. BERMAN,1976,41,Irving G. Thalberg Memorial Award,
+3120,WALTER MIRISCH,1977,41,Irving G. Thalberg Memorial Award,
+3245,RAY STARK,1979,41,Irving G. Thalberg Memorial Award,
+3356,ALBERT R. BROCCOLI,1981,41,Irving G. Thalberg Memorial Award,
+3662,STEVEN SPIELBERG,1986,41,Irving G. Thalberg Memorial Award,
+3724,BILLY WILDER,1987,41,Irving G. Thalberg Memorial Award,
+3913,DAVID BROWN AND RICHARD D. ZANUCK,1990,41,Irving G. Thalberg Memorial Award,
+3971,GEORGE LUCAS,1991,41,Irving G. Thalberg Memorial Award,
+4315,SAUL ZAENTZ,1996,41,Irving G. Thalberg Memorial Award,
+4440,NORMAN JEWISON,1998,41,Irving G. Thalberg Memorial Award,
+4567,DINO DE LAURENTIIS,2000,41,Irving G. Thalberg Memorial Award,
+5152,JOHN CALLEY,2009,41,Irving G. Thalberg Memorial Award,
+5216,FRANCIS FORD COPPOLA,2010,41,Irving G. Thalberg Memorial Award,
+1793,Y. FRANK FREEMAN,1956,42,Jean Hersholt Humanitarian Award,
+2046,SOL LESSER,1960,42,Jean Hersholt Humanitarian Award,
+2111,GEORGE SEATON,1961,42,Jean Hersholt Humanitarian Award,
+2180,STEVE BROIDY,1962,42,Jean Hersholt Humanitarian Award,
+2381,EDMOND L. DEPATIE,1965,42,Jean Hersholt Humanitarian Award,
+2452,GEORGE BAGNALL,1966,42,Jean Hersholt Humanitarian Award,
+2573,MARTHA RAYE,1968,42,Jean Hersholt Humanitarian Award,
+2632,GEORGE JESSEL,1969,42,Jean Hersholt Humanitarian Award,
+2870,LEW WASSERMAN,1973,42,Jean Hersholt Humanitarian Award,
+2933,ARTHUR B. KRIM,1974,42,Jean Hersholt Humanitarian Award,
+2996,DR. JULES C. STEIN,1975,42,Jean Hersholt Humanitarian Award,
+3177,LEO JAFFE,1978,42,Jean Hersholt Humanitarian Award,
+3243,ROBERT BENJAMIN,1979,42,Jean Hersholt Humanitarian Award,
+3469,M. J. FRANKOVICH,1983,42,Jean Hersholt Humanitarian Award,
+3532,DAVID L. WOLPER,1984,42,Jean Hersholt Humanitarian Award,
+3596,CHARLES 'BUDDY' ROGERS,1985,42,Jean Hersholt Humanitarian Award,
+3850,HOWARD W. KOCH,1989,42,Jean Hersholt Humanitarian Award,
+4163,QUINCY JONES,1994,42,Jean Hersholt Humanitarian Award,
+4625,ARTHUR HILLER,2001,42,Jean Hersholt Humanitarian Award,
+4812,ROGER MAYER,2004,42,Jean Hersholt Humanitarian Award,
+4951,SHERRY LANSING,2006,42,Jean Hersholt Humanitarian Award,
+5080,JERRY LEWIS,2008,42,Jean Hersholt Humanitarian Award,
+5343,JEFFREY KATZENBERG,2012,42,Jean Hersholt Humanitarian Award,
+5483,HARRY BELAFONTE,2014,42,Jean Hersholt Humanitarian Award,
+4317,VOLKER W. BAHNEMANN,1996,43,John A. Bonner Medal of Commendation,
+4318,"BURTON BUD"""" STONE""""",1996,43,John A. Bonner Medal of Commendation,
+4383,PETE CLARK,1997,43,John A. Bonner Medal of Commendation,
+4441,DAVID W. GRAY,1998,43,John A. Bonner Medal of Commendation,
+4507,EDMUND M. DI GIULIO,1999,43,John A. Bonner Medal of Commendation,
+4508,TAKUO MIYAGISHIMA,1999,43,John A. Bonner Medal of Commendation,
+4570,"N. PAUL KENWORTHY, JR.",2000,43,John A. Bonner Medal of Commendation,
+4628,RAY FEENEY,2001,43,John A. Bonner Medal of Commendation,
+4686,CURT R. BEHLMER,2002,43,John A. Bonner Medal of Commendation,
+4687,RICHARD B. GLICKMAN,2002,43,John A. Bonner Medal of Commendation,
+4747,DOUGLAS GREENFIELD,2003,43,John A. Bonner Medal of Commendation,
+4883,DON HALL,2005,43,John A. Bonner Medal of Commendation,
+4954,RICHARD EDLUND,2006,43,John A. Bonner Medal of Commendation,
+5022,DAVID INGLISH,2007,43,John A. Bonner Medal of Commendation,
+5082,MARK KIMBALL,2008,43,John A. Bonner Medal of Commendation,
+5217,DENNY CLAIRMONT,2010,43,John A. Bonner Medal of Commendation,
+5347,BILL TAYLOR,2012,43,John A. Bonner Medal of Commendation,
+5417,"CHARLES TAD"""" MARBURG""""",2013,43,John A. Bonner Medal of Commendation,
+3338,AN AMERICAN WEREWOLF IN LONDON ,1981,44,Makeup,Rick Baker
+3395,QUEST FOR FIRE ,1982,44,Makeup,"Sarah Monzani, Michèle Burke"
+3573,MASK ,1985,44,Makeup,"Michael Westmore, Zoltan Elek"
+3706,HARRY AND THE HENDERSONS ,1987,44,Makeup,Rick Baker
+3768,BEETLEJUICE ,1988,44,Makeup,"Ve Neill, Steve La Porte, Robert Short"
+4076,MRS. DOUBTFIRE ,1993,44,Makeup,"Greg Cannom, Ve Neill, Yolanda Toussieng"
+4139,ED WOOD ,1994,44,Makeup,"Rick Baker, Ve Neill, Yolanda Toussieng"
+4283,THE NUTTY PROFESSOR ,1996,44,Makeup,"Rick Baker, David LeRoy Anderson"
+5128,STAR TREK ,2009,44,Makeup,"Barney Burman, Mindy Hall and Joel Harlow"
+5190,THE WOLFMAN ,2010,44,Makeup,Rick Baker and Dave Elsey
+5260,THE IRON LADY ,2011,44,Makeup,Mark Coulier and J. Roy Helland
+3121,GORDON E. SAWYER,1977,46,Medal of Commendation,
+3122,SIDNEY PAUL SOLOW,1977,46,Medal of Commendation,
+3180,LINWOOD G. DUNN,1978,46,Medal of Commendation,
+3181,LOREN L. RYDER,1978,46,Medal of Commendation,
+3182,WALDON O. WATSON,1978,46,Medal of Commendation,
+3246,JOHN O. AALBERG,1979,46,Medal of Commendation,
+3247,CHARLES G. CLARKE,1979,46,Medal of Commendation,
+3248,JOHN G. FRAYNE,1979,46,Medal of Commendation,
+3305,FRED HYNES,1980,46,Medal of Commendation,
+3598,"JOHN H. WHITNEY, SR.",1985,46,Medal of Commendation,
+3663,E. M. (AL) LEWIS,1986,46,Medal of Commendation,
+3915,RODERICK T. RYAN,1990,46,Medal of Commendation,
+3916,DON TRUMBULL,1990,46,Medal of Commendation,
+3917,GEOFFREY H. WILLIAMSON,1990,46,Medal of Commendation,
+3974,RICHARD J. STUMPF,1991,46,Medal of Commendation,
+3975,JOSEPH WESTHEIMER,1991,46,Medal of Commendation,
+4040,PETRO VLAHOS,1992,46,Medal of Commendation,
+4165,JOHN A. BONNER,1994,46,Medal of Commendation,
+3159,THE BUDDY HOLLY STORY ,1978,47,Music (Adaptation Score),Joe Renzetti
+507,ALL THAT MONEY CAN BUY ,1941,49,Music (Music Score of a Dramatic Picture),Bernard Herrmann
+2791,LIMELIGHT ,1972,51,Music (Original Dramatic Score),"Charles Chaplin, Raymond Rasch, Larry Russell"
+2433,BORN FREE ,1966,52,Music (Original Music Score),John Barry
+425,PINOCCHIO ,1940,54,Music (Original Score),"Leigh Harline, Paul J. Smith, Ned Washington"
+3036,THE OMEN ,1976,54,Music (Original Score),Jerry Goldsmith
+3221,A LITTLE ROMANCE ,1979,54,Music (Original Score),Georges Delerue
+3642,'ROUND MIDNIGHT ,1986,54,Music (Original Score),Herbie Hancock
+3771,THE MILAGRO BEANFIELD WAR ,1988,54,Music (Original Score),Dave Grusin
+3831,THE LITTLE MERMAID ,1989,54,Music (Original Score),Alan Menken
+3955,BEAUTY AND THE BEAST ,1991,54,Music (Original Score),Alan Menken
+4015,ALADDIN ,1992,54,Music (Original Score),Alan Menken
+4141,THE LION KING ,1994,54,Music (Original Score),Hans Zimmer
+4483,THE RED VIOLIN ,1999,54,Music (Original Score),John Corigliano
+2676,LET IT BE ,1970,58,Music (Original Song Score),Music and lyrics by The Beatles
+3513,PURPLE RAIN ,1984,58,Music (Original Song Score),Prince
+2981,"I'M EASY"""" FROM NASHVILLE""""",1975,59,Music (Original Song),Music and Lyrics by Keith Carradine
+3162,"LAST DANCE"""" FROM THANK GOD IT'S FRIDAY""""",1978,59,Music (Original Song),Music and Lyrics by Paul Jabara
+3225,"IT GOES LIKE IT GOES"""" FROM NORMA RAE""""",1979,59,Music (Original Song),Music by David Shire; Lyric by Norman Gimbel
+3773,"LET THE RIVER RUN"""" FROM WORKING GIRL""""",1988,59,Music (Original Song),Music and Lyric by Carly Simon
+3836,"UNDER THE SEA"""" FROM THE LITTLE MERMAID""""",1989,59,Music (Original Song),Music by Alan Menken; Lyric by Howard Ashman
+4020,"A WHOLE NEW WORLD"""" FROM ALADDIN""""",1992,59,Music (Original Song),Music by Alan Menken; Lyric by Tim Rice
+4082,"STREETS OF PHILADELPHIA"""" FROM PHILADELPHIA""""",1993,59,Music (Original Song),Music and Lyric by Bruce Springsteen
+4361,"MY HEART WILL GO ON"""" FROM TITANIC""""",1997,59,Music (Original Song),Music by James Horner; Lyric by Will Jennings
+4422,"WHEN YOU BELIEVE"""" FROM THE PRINCE OF EGYPT""""",1998,59,Music (Original Song),Music and Lyric by Stephen Schwartz
+4488,"YOU'LL BE IN MY HEART"""" FROM TARZAN""""",1999,59,Music (Original Song),Music and Lyric by Phil Collins
+4550,"THINGS HAVE CHANGED"""" FROM WONDER BOYS""""",2000,59,Music (Original Song),Music and Lyric by Bob Dylan
+5062,"JAI HO"""" FROM SLUMDOG MILLIONAIRE""""",2008,59,Music (Original Song),Music by A.R. Rahman; Lyric by Gulzar
+5194,"WE BELONG TOGETHER"""" FROM TOY STORY 3""""",2010,59,Music (Original Song),Music and Lyric by Randy Newman
+5263,"MAN OR MUPPET"""" FROM THE MUPPETS""""",2011,59,Music (Original Song),Music and Lyric by Bret McKenzie
+5534,WRITING'S ON THE WALL FROM SPECTRE,2015,59,Music (Original Song),Music and Lyric by Jimmy Napes and Sam Smith
+522,DUMBO ,1941,61,Music (Scoring of a Musical Picture),"Frank Churchill, Oliver Wallace"
+1183,EASTER PARADE ,1948,61,Music (Scoring of a Musical Picture),"Johnny Green, Roger Edens"
+1256,ON THE TOWN ,1949,61,Music (Scoring of a Musical Picture),"Roger Edens, Lennie Hayton"
+2027,SONG WITHOUT END (THE STORY OF FRANZ LISZT) ,1960,61,Music (Scoring of a Musical Picture),"Morris Stoloff, Harry Sukman"
+430,TIN PAN ALLEY ,1940,63,Music (Scoring),Alfred Newman
+20,"THE CONTINENTAL"""" FROM THE GAY DIVORCEE""""",1934,66,Music (Song),Music by Con Conrad; Lyrics by Herb Magidson
+197,"SWEET LEILANI"""" FROM WAIKIKI WEDDING""""",1937,66,Music (Song),Music and Lyrics by Harry Owens
+662,"WHITE CHRISTMAS"""" FROM HOLIDAY INN""""",1942,66,Music (Song),Music and Lyrics by Irving Berlin
+1121,"ZIP-A-DEE-DOO-DAH"""" FROM SONG OF THE SOUTH""""",1947,66,Music (Song),Music by Allie Wrubel; Lyrics by Ray Gilbert
+2031,"NEVER ON SUNDAY"""" FROM NEVER ON SUNDAY""""",1960,66,Music (Song),Music and Lyrics by Manos Hadjidakis
+2439,"BORN FREE"""" FROM BORN FREE""""",1966,66,Music (Song),Music by John Barry; Lyrics by Don Black
+2500,"TALK TO THE ANIMALS"""" FROM DOCTOR DOLITTLE""""",1967,66,Music (Song),Music and Lyrics by Leslie Bricusse
+2743,"THEME FROM SHAFT"""" FROM SHAFT""""",1971,67,"Music (Song, Original for the Picture)",Music and Lyrics by Isaac Hayes
+2920,CLOSED MONDAYS ,1974,70,Short Film (Animated),"Will Vinton and Bob Gardiner, Producers"
+2985,GREAT ,1975,70,Short Film (Animated),"Bob Godfrey, Producer"
+3047,LEISURE ,1976,70,Short Film (Animated),"Suzanne Baker, Producer"
+3106,THE SAND CASTLE ,1977,70,Short Film (Animated),"Co Hoedeman, Producer"
+3169,SPECIAL DELIVERY ,1978,70,Short Film (Animated),"Eunice Macaulay and John Weldon, Producers"
+3231,EVERY CHILD ,1979,70,Short Film (Animated),"Derek Lamb, Producer"
+3295,THE FLY ,1980,70,Short Film (Animated),"Ferenc Rofusz, Producer"
+3346,CRAC ,1981,70,Short Film (Animated),"Frédéric Back, Producer"
+3406,TANGO ,1982,70,Short Film (Animated),"Zbigniew Rybczynski, Producer"
+3461,SUNDAE IN NEW YORK ,1983,70,Short Film (Animated),"Jimmy Picker, Producer"
+3521,CHARADE ,1984,70,Short Film (Animated),"Jon Minnis, Producer"
+3582,ANNA & BELLA ,1985,70,Short Film (Animated),"Cilia Van Dijk, Producer"
+3715,THE MAN WHO PLANTED TREES ,1987,70,Short Film (Animated),"Frédéric Back, Producer"
+3777,TIN TOY ,1988,70,Short Film (Animated),"John Lasseter, William Reeves"
+3837,BALANCE ,1989,70,Short Film (Animated),"Christoph Lauenstein, Wolfgang Lauenstein"
+3898,CREATURE COMFORTS ,1990,70,Short Film (Animated),Nick Park
+3962,MANIPULATION ,1991,70,Short Film (Animated),Daniel Greaves
+4022,MONA LISA DESCENDING A STAIRCASE ,1992,70,Short Film (Animated),Joan C. Gratz
+4088,THE WRONG TROUSERS ,1993,70,Short Film (Animated),Nick Park
+4149,BOB'S BIRTHDAY ,1994,70,Short Film (Animated),"Alison Snowden, David Fine"
+4224,A CLOSE SHAVE ,1995,70,Short Film (Animated),Nick Park
+4296,QUEST ,1996,70,Short Film (Animated),"Tyron Montgomery, Thomas Stellmach"
+4363,GERI'S GAME ,1997,70,Short Film (Animated),Jan Pinkava
+4423,BUNNY ,1998,70,Short Film (Animated),Chris Wedge
+4551,FATHER AND DAUGHTER ,2000,70,Short Film (Animated),Michael Dudok de Wit
+4612,FOR THE BIRDS ,2001,70,Short Film (Animated),Ralph Eggleston
+4670,THE CHUBBCHUBBS! ,2002,70,Short Film (Animated),Eric Armstrong
+4735,HARVIE KRUMPET ,2003,70,Short Film (Animated),Adam Elliot
+4799,RYAN ,2004,70,Short Film (Animated),Chris Landreth
+4936,THE DANISH POET ,2006,70,Short Film (Animated),Torill Kove
+5009,PETER & THE WOLF ,2007,70,Short Film (Animated),Suzie Templeton and Hugh Welchman
+5064,LA MAISON EN PETITS CUBES ,2008,70,Short Film (Animated),Kunio Kato
+5140,LOGORAMA ,2009,70,Short Film (Animated),Nicolas Schmerkin
+5200,THE LOST THING ,2010,70,Short Film (Animated),Shaun Tan and Andrew Ruhemann
+5333,PAPERMAN ,2012,70,Short Film (Animated),John Kahrs
+5399,MR. HUBLOT ,2013,70,Short Film (Animated),Laurent Witz and Alexandre Espigares
+5470,FEAST ,2014,70,Short Film (Animated),Patrick Osborne and Kristina Reed
+5537,BEAR STORY,2015,70,Short Film (Animated),Gabriel Osorio and Pato Escala
+3297,THE DOLLAR BOTTOM ,1980,71,Short Film (Dramatic Live Action),"Lloyd Phillips, Producer"
+2926,ONE-EYED MEN ARE KINGS ,1974,72,Short Film (Live Action),"Paul Claudon and Edmond Sechan, Producers"
+2989,ANGEL AND BIG JOE ,1975,72,Short Film (Live Action),"Bert Salzman, Producer"
+3049,IN THE REGION OF ICE ,1976,72,Short Film (Live Action),"Andre Guttfreund and Peter Werner, Producers"
+3109,I'LL FIND A WAY ,1977,72,Short Film (Live Action),"Beverly Shaffer and Yuki Yoshida, Producers"
+3173,TEENAGE FATHER ,1978,72,Short Film (Live Action),"Taylor Hackford, Producer"
+3233,BOARD AND CARE ,1979,72,Short Film (Live Action),"Sarah Pillsbury and Ron Ellis, Producers"
+3351,VIOLET ,1981,72,Short Film (Live Action),"Paul Kemp and Shelley Levinson, Producers"
+3408,A SHOCKING ACCIDENT ,1982,72,Short Film (Live Action),"Christine Oestreicher, Producer"
+3462,BOYS AND GIRLS ,1983,72,Short Film (Live Action),"Janice L. Platt, Producer"
+3526,UP ,1984,72,Short Film (Live Action),"Mike Hoover, Producer"
+3586,MOLLY'S PILGRIM ,1985,72,Short Film (Live Action),"Jeff Brown and Chris Pelzer, Producers"
+3654,PRECIOUS IMAGES ,1986,72,Short Film (Live Action),"Chuck Workman, Producer"
+3718,RAY'S MALE HETEROSEXUAL DANCE HALL ,1987,72,Short Film (Live Action),"Jonathan Sanger and Jana Sue Memel, Producers"
+3778,THE APPOINTMENTS OF DENNIS JENNINGS ,1988,72,Short Film (Live Action),"Dean Parisot, Steven Wright"
+3842,WORK EXPERIENCE ,1989,72,Short Film (Live Action),James Hendrie
+3903,THE LUNCH DATE ,1990,72,Short Film (Live Action),Adam Davidson
+3966,SESSION MAN ,1991,72,Short Film (Live Action),"Seth Winston, Rob Fried"
+4029,OMNIBUS ,1992,72,Short Film (Live Action),Sam Karmann
+4089,BLACK RIDER (SCHWARZFAHRER) ,1993,72,Short Film (Live Action),Pepe Danquart
+4153,FRANZ KAFKA'S IT'S A WONDERFUL LIFE ,1994,72,Short Film (Live Action),"Peter Capaldi, Ruth Kenley-Letts"
+4157,TREVOR ,1994,72,Short Film (Live Action),"Peggy Rajski, Randy Stone"
+4230,LIEBERMAN IN LOVE ,1995,72,Short Film (Live Action),"Christine Lahti, Jana Sue Memel"
+4299,DEAR DIARY ,1996,72,Short Film (Live Action),"David Frankel, Barry Jossen"
+4370,VISAS AND VIRTUE ,1997,72,Short Film (Live Action),"Chris Tashima, Chris Donahue"
+4429,ELECTION NIGHT (VALGAFTEN) ,1998,72,Short Film (Live Action),"Kim Magnusson, Anders Thomas Jensen"
+4556,QUIERO SER (I WANT TO BE...) ,2000,72,Short Film (Live Action),Florian Gallenberger
+4616,THE ACCOUNTANT ,2001,72,Short Film (Live Action),"Ray McKinnon, Lisa Blount"
+4678,THIS CHARMING MAN (DER ER EN YNDIG MAND) ,2002,72,Short Film (Live Action),"Martin Strange-Hansen, Mie Andreasen"
+4741,TWO SOLDIERS ,2003,72,Short Film (Live Action),Aaron Schneider and Andrew J. Sacks
+4804,WASP ,2004,72,Short Film (Live Action),Andrea Arnold
+4875,SIX SHOOTER ,2005,72,Short Film (Live Action),Martin McDonagh
+4945,WEST BANK STORY ,2006,72,Short Film (Live Action),Ari Sandel
+5073,SPIELZEUGLAND (TOYLAND) ,2008,72,Short Film (Live Action),Jochen Alexander Freydank
+5146,THE NEW TENANTS ,2009,72,Short Film (Live Action),Joachim Back and Tivi Magnusson
+5204,GOD OF LOVE ,2010,72,Short Film (Live Action),Luke Matheny
+5274,THE SHORE ,2011,72,Short Film (Live Action),Terry George and Oorlagh George
+5336,CURFEW ,2012,72,Short Film (Live Action),Shawn Christensen
+5404,HELIUM ,2013,72,Short Film (Live Action),Anders Walter and Kim Magnusson
+5477,THE PHONE CALL ,2014,72,Short Film (Live Action),Mat Kirkby and James Lucas
+5546,STUTTERER,2015,72,Short Film (Live Action),Benjamin Cleary and Serena Armitage
+2744,THE CRUNCH BIRD ,1971,73,Short Subject (Animated),"Ted Petok, Producer"
+2800,A CHRISTMAS CAROL ,1972,73,Short Subject (Animated),"Richard Williams, Producer"
+2859,FRANK FILM ,1973,73,Short Subject (Animated),"Frank Mouris, Producer"
+29,THE TORTOISE AND THE HARE ,1934,74,Short Subject (Cartoon),"Walt Disney, Producer"
+72,THREE ORPHAN KITTENS ,1935,74,Short Subject (Cartoon),"Walt Disney, Producer"
+135,THE COUNTRY COUSIN ,1936,74,Short Subject (Cartoon),"Walt Disney, Producer"
+203,THE OLD MILL ,1937,74,Short Subject (Cartoon),"Walt Disney, Producer"
+280,FERDINAND THE BULL ,1938,74,Short Subject (Cartoon),"Walt Disney, Producer"
+358,THE UGLY DUCKLING ,1939,74,Short Subject (Cartoon),"Walt Disney, Producer"
+440,THE MILKY WAY ,1940,74,Short Subject (Cartoon),Metro-Goldwyn-Mayer
+541,LEND A PAW ,1941,74,Short Subject (Cartoon),"Walt Disney, Producer"
+666,DER FUEHRER'S FACE ,1942,74,Short Subject (Cartoon),"Walt Disney, Producer"
+785,YANKEE DOODLE MOUSE ,1943,74,Short Subject (Cartoon),"Frederick Quimby, Producer"
+885,MOUSE TROUBLE ,1944,74,Short Subject (Cartoon),"Frederick C. Quimby, Producer"
+988,QUIET PLEASE! ,1945,74,Short Subject (Cartoon),"Frederick Quimby, Producer"
+1053,THE CAT CONCERTO ,1946,74,Short Subject (Cartoon),"Frederick Quimby, Producer"
+1127,TWEETIE PIE ,1947,74,Short Subject (Cartoon),"Edward Selzer, Producer"
+1192,THE LITTLE ORPHAN ,1948,74,Short Subject (Cartoon),"Fred Quimby, Producer"
+1264,FOR SCENT-IMENTAL REASONS ,1949,74,Short Subject (Cartoon),"Edward Selzer, Producer"
+1335,GERALD MCBOING-BOING ,1950,74,Short Subject (Cartoon),"Stephen Bosustow, Producer"
+1407,THE TWO MOUSEKETEERS ,1951,74,Short Subject (Cartoon),"Fred Quimby, Producer"
+1472,JOHANN MOUSE ,1952,74,Short Subject (Cartoon),"Fred Quimby, Producer"
+1558,"TOOT, WHISTLE, PLUNK AND BOOM ",1953,74,Short Subject (Cartoon),"Walt Disney, Producer"
+1632,WHEN MAGOO FLEW ,1954,74,Short Subject (Cartoon),"Stephen Bosustow, Producer"
+1704,SPEEDY GONZALES ,1955,74,Short Subject (Cartoon),"Edward Selzer, Producer"
+1779,MISTER MAGOO'S PUDDLE JUMPER ,1956,74,Short Subject (Cartoon),"Stephen Bosustow, Producer"
+1834,BIRDS ANONYMOUS ,1957,74,Short Subject (Cartoon),"Edward Selzer, Producer"
+1904,KNIGHTY KNIGHT BUGS ,1958,74,Short Subject (Cartoon),"John W. Burton, Producer"
+1969,MOONBIRD ,1959,74,Short Subject (Cartoon),"John Hubley, Producer"
+2036,MUNRO ,1960,74,Short Subject (Cartoon),"William L. Snyder, Producer"
+2099,ERSATZ (THE SUBSTITUTE) ,1961,74,Short Subject (Cartoon),Zagreb Film
+2168,THE HOLE ,1962,74,Short Subject (Cartoon),"John Hubley and Faith Hubley, Producers"
+2237,THE CRITIC ,1963,74,Short Subject (Cartoon),"Ernest Pintoff, Producer"
+2303,THE PINK PHINK ,1964,74,Short Subject (Cartoon),"David H. DePatie and Friz Freleng, Producers"
+2368,THE DOT AND THE LINE ,1965,74,Short Subject (Cartoon),"Chuck Jones and Les Goldman, Producers"
+2502,THE BOX ,1967,74,Short Subject (Cartoon),"Fred Wolf, Producer"
+2564,WINNIE THE POOH AND THE BLUSTERY DAY ,1968,74,Short Subject (Cartoon),"Walt Disney, Producer"
+2623,IT'S TOUGH TO BE A BIRD ,1969,74,Short Subject (Cartoon),"Ward Kimball, Producer"
+2684,IS IT ALWAYS RIGHT TO BE RIGHT? ,1970,74,Short Subject (Cartoon),"Nick Bosustow, Producer"
+138,GIVE ME LIBERTY ,1936,75,Short Subject (Color),Warner Brothers
+205,PENNY WISDOM ,1937,75,Short Subject (Color),"Pete Smith, Producer"
+30,LA CUCARACHA ,1934,76,Short Subject (Comedy),"Kenneth Macgowan, Producer"
+74,HOW TO SLEEP ,1935,76,Short Subject (Comedy),"Jack Chertok, Producer"
+1843,THE WETBACK HOUND ,1957,77,Short Subject (Live Action),"Larry Lansburgh, Producer"
+1907,GRAND CANYON ,1958,77,Short Subject (Live Action),"Walt Disney, Producer"
+1973,THE GOLDEN FISH ,1959,77,Short Subject (Live Action),"Jacques-Yves Cousteau, Producer"
+2038,DAY OF THE PAINTER ,1960,77,Short Subject (Live Action),"Ezra R. Baker, Producer"
+2105,SEAWARDS THE GREAT SHIPS ,1961,77,Short Subject (Live Action),Templar Film Studios
+2176,HEUREUX ANNIVERSAIRE (HAPPY ANNIVERSARY) ,1962,77,Short Subject (Live Action),"Pierre Etaix and J.C. Carrière, Producers"
+2243,AN OCCURRENCE AT OWL CREEK BRIDGE ,1963,77,Short Subject (Live Action),"Paul de Roubaix and Marcel Ichac, Producers"
+2304,CASALS CONDUCTS: 1964 ,1964,77,Short Subject (Live Action),"Edward Schreiber, Producer"
+2370,THE CHICKEN (LE POULET) ,1965,77,Short Subject (Live Action),"Claude Berri, Producer"
+2448,WILD WINGS ,1966,77,Short Subject (Live Action),"Edgar Anstey, Producer"
+2568,ROBERT KENNEDY REMEMBERED ,1968,77,Short Subject (Live Action),"Charles Guggenheim, Producer"
+2686,THE RESURRECTION OF BRONCHO BILLY ,1970,77,Short Subject (Live Action),"John Longenecker, Producer"
+2804,NORMAN ROCKWELL'S WORLD...AN AMERICAN DREAM ,1972,77,Short Subject (Live Action),"Richard Barclay, Producer"
+2862,THE BOLERO ,1973,77,Short Subject (Live Action),"Allan Miller and William Fertik, Producers"
+34,CITY OF WAX ,1934,78,Short Subject (Novelty),"Stacy Woodard and Horace Woodard, Producers"
+79,WINGS OVER MT. EVEREST ,1935,78,Short Subject (Novelty),Gaumont British and Skibo Productions
+141,BORED OF EDUCATION ,1936,79,Short Subject (One Reel),"Hal Roach, Producer"
+208,THE PRIVATE LIFE OF THE GANNETS ,1937,79,Short Subject (One Reel),Skibo Productions
+285,THAT MOTHERS MIGHT LIVE ,1938,79,Short Subject (One Reel),Metro-Goldwyn-Mayer
+359,BUSY LITTLE BEARS ,1939,79,Short Subject (One Reel),Paramount
+445,QUICKER 'N A WINK ,1940,79,Short Subject (One Reel),"Pete Smith, Producer"
+553,OF PUPS AND PUZZLES ,1941,79,Short Subject (One Reel),Metro-Goldwyn-Mayer
+672,SPEAKING OF ANIMALS AND THEIR FAMILIES ,1942,79,Short Subject (One Reel),Paramount
+786,AMPHIBIOUS FIGHTERS ,1943,79,Short Subject (One Reel),"Grantland Rice, Producer"
+892,WHO'S WHO IN ANIMAL LAND ,1944,79,Short Subject (One Reel),"Jerry Fairbanks, Producer"
+1059,FACING YOUR DANGER ,1946,79,Short Subject (One Reel),"Gordon Hollingshead, Producer"
+1129,GOOD-BYE MISS TURLOCK ,1947,79,Short Subject (One Reel),"Herbert Moulton, Producer"
+1200,SYMPHONY OF A CITY ,1948,79,Short Subject (One Reel),"Edmund H. Reek, Producer"
+1268,AQUATIC HOUSE-PARTY ,1949,79,Short Subject (One Reel),"Jack Eaton, Producer"
+1339,GRANDAD OF RACES ,1950,79,Short Subject (One Reel),"Gordon Hollingshead, Producer"
+1410,WORLD OF KIDS ,1951,79,Short Subject (One Reel),"Robert Youngson, Producer"
+1479,LIGHT IN THE WINDOW: THE ART OF VERMEER ,1952,79,Short Subject (One Reel),"Boris Vermont, Producer"
+1562,THE MERRY WIVES OF WINDSOR OVERTURE ,1953,79,Short Subject (One Reel),"Johnny Green, Producer"
+1635,THIS MECHANICAL AGE ,1954,79,Short Subject (One Reel),"Robert Youngson, Producer"
+1706,SURVIVAL CITY ,1955,79,Short Subject (One Reel),"Edmund Reek, Producer"
+1780,CRASHING THE WATER BARRIER ,1956,79,Short Subject (One Reel),"Konstantin Kalser, Producer"
+146,THE PUBLIC PAYS ,1936,80,Short Subject (Two Reel),Metro-Goldwyn-Mayer
+212,TORTURE MONEY ,1937,80,Short Subject (Two Reel),Metro-Goldwyn-Mayer
+287,DECLARATION OF INDEPENDENCE ,1938,80,Short Subject (Two Reel),Warner Brothers
+365,SONS OF LIBERTY ,1939,80,Short Subject (Two Reel),Warner Brothers
+449,"TEDDY, THE ROUGH RIDER ",1940,80,Short Subject (Two Reel),Warner Brothers
+558,MAIN STREET ON THE MARCH! ,1941,80,Short Subject (Two Reel),Metro-Goldwyn-Mayer
+674,BEYOND THE LINE OF DUTY ,1942,80,Short Subject (Two Reel),Warner Brothers
+791,HEAVENLY MUSIC ,1943,80,Short Subject (Two Reel),"Jerry Bresler and Sam Coslow, Producers"
+894,I WON'T PLAY ,1944,80,Short Subject (Two Reel),"Gordon Hollingshead, Producer"
+999,STAR IN THE NIGHT ,1945,80,Short Subject (Two Reel),"Gordon Hollingshead, Producer"
+1063,A BOY AND HIS DOG ,1946,80,Short Subject (Two Reel),"Gordon Hollingshead, Producer"
+1134,CLIMBING THE MATTERHORN ,1947,80,Short Subject (Two Reel),"Irving Allen, Producer"
+1205,SEAL ISLAND ,1948,80,Short Subject (Two Reel),"Walt Disney, Producer"
+1277,VAN GOGH ,1949,80,Short Subject (Two Reel),"Gaston Diehl and Robert Haessens, Producers"
+1342,IN BEAVER VALLEY ,1950,80,Short Subject (Two Reel),"Walt Disney, Producer"
+1413,NATURE'S HALF ACRE ,1951,80,Short Subject (Two Reel),"Walt Disney, Producer"
+1483,WATER BIRDS ,1952,80,Short Subject (Two Reel),"Walt Disney, Producer"
+1564,BEAR COUNTRY ,1953,80,Short Subject (Two Reel),"Walt Disney, Producer"
+1638,A TIME OUT OF WAR ,1954,80,Short Subject (Two Reel),"Denis Sanders and Terry Sanders, Producers"
+1783,THE BESPOKE OVERCOAT ,1956,80,Short Subject (Two Reel),Romulus Films
+2307,GOLDFINGER ,1964,83,Sound Effects,Norman Wanstall
+4308,THE GHOST AND THE DARKNESS ,1996,84,Sound Effects Editing,Bruce Stambler
+1484,BREAKING THE SOUND BARRIER ,1952,86,Sound Recording,London Film Sound Department
+3118,"BENJAMIN BURTT, JR.",1977,87,Special Achievement Award,Star Wars
+3787,RICHARD WILLIAMS,1988,87,Special Achievement Award,Who Framed Roger Rabbit
+4236,JOHN LASSETER,1995,87,Special Achievement Award,Toy Story
+39,SHIRLEY TEMPLE,1934,88,Special Award,
+88,DAVID WARK GRIFFITH,1935,88,Special Award,
+153,THE MARCH OF TIME,1936,88,Special Award,
+154,W. HOWARD GREENE AND HAROLD ROSSON,1936,88,Special Award,The Garden of Allah
+218,MACK SENNETT,1937,88,Special Award,
+219,EDGAR BERGEN,1937,88,Special Award,"Charlie McCarthy"""""""""
+220,THE MUSEUM OF MODERN ART FILM LIBRARY,1937,88,Special Award,
+221,W. HOWARD GREENE,1937,88,Special Award,A Star Is Born
+291,DEANNA DURBIN AND MICKEY ROONEY,1938,88,Special Award,
+292,HARRY M. WARNER,1938,88,Special Award,
+293,OLIVER MARSH AND ALLEN DAVEY,1938,88,Special Award,Sweethearts
+294,SPAWN OF THE NORTH,1938,88,Special Award,
+295,J. ARTHUR BALL,1938,88,Special Award,
+372,DOUGLAS FAIRBANKS,1939,88,Special Award,
+373,THE MOTION PICTURE RELIEF FUND,1939,88,Special Award,
+374,JUDY GARLAND,1939,88,Special Award,
+375,TECHNICOLOR COMPANY,1939,88,Special Award,
+463,BOB HOPE,1940,88,Special Award,
+464,COLONEL NATHAN LEVINSON,1940,88,Special Award,
+576,REY SCOTT,1941,88,Special Award,Kukan
+577,THE BRITISH MINISTRY OF INFORMATION,1941,88,Special Award,Target for Tonight
+578,LEOPOLD STOKOWSKI AND ASSOCIATES,1941,88,Special Award,Fantasia
+686,NOEL COWARD,1942,88,Special Award,In Which We Serve
+806,GEORGE PAL,1943,88,Special Award,
+908,MARGARET O'BRIEN,1944,88,Special Award,
+1015,PEGGY ANN GARNER,1945,88,Special Award,
+1016,THE HOUSE I LIVE IN,1945,88,Special Award,
+1080,"CLAUDE JARMAN, JR.",1946,88,Special Award,
+1148,JAMES BASKETT,1947,88,Special Award,Song of the South
+1149,BILL AND COO,1947,88,Special Award,
+1150,SHOE-SHINE,1947,88,Special Award,
+1211,IVAN JANDL,1948,88,Special Award,The Search
+1212,SID GRAUMAN,1948,88,Special Award,
+1213,ADOLPH ZUKOR,1948,88,Special Award,
+1214,JEAN HERSHOLT,1948,88,Special Award,
+1288,BOBBY DRISCOLL,1949,88,Special Award,
+1289,FRED ASTAIRE,1949,88,Special Award,
+1290,CECIL B. DEMILLE,1949,88,Special Award,
+1067,BLITHE SPIRIT ,1946,109,Special Effects,Special Visual Effects by Thomas Howard
+1279,MIGHTY JOE YOUNG ,1949,109,Special Effects,ARKO Productions
+1486,PLYMOUTH ADVENTURE ,1952,109,Special Effects,Metro-Goldwyn-Mayer
+1844,THE ENEMY BELOW ,1957,109,Special Effects,Audible Effects by Walter Rossi
+1912,TOM THUMB ,1958,109,Special Effects,Visual Effects by Tom Howard
+2042,THE TIME MACHINE ,1960,109,Special Effects,"Visual Effects by Gene Warren, Tim Baar"
+1210,MONSIEUR VINCENT,1948,89,Special Foreign Language Film Award,
+1287,THE BICYCLE THIEF,1949,89,Special Foreign Language Film Award,
+2377,THUNDERBALL ,1965,90,Special Visual Effects,John Stears
+1282,THE STRATTON STORY ,1949,93,Writing (Motion Picture Story),Douglas Morrow
+1350,PANIC IN THE STREETS ,1950,93,Writing (Motion Picture Story),"Edna Anhalt, Edward Anhalt"
+1419,SEVEN DAYS TO NOON ,1951,93,Writing (Motion Picture Story),"Paul Dehn, James Bernard"
+1643,BROKEN LANCE ,1954,93,Writing (Motion Picture Story),Philip Yordan
+1006,THE HOUSE ON 92ND STREET ,1945,94,Writing (Original Motion Picture Story),Charles G. Booth
+1073,VACATION FROM MARRIAGE ,1946,94,Writing (Original Motion Picture Story),Clemence Dane
+460,THE GREAT MCGINTY ,1940,95,Writing (Original Screenplay),Preston Sturges
+685,WOMAN OF THE YEAR ,1942,95,Writing (Original Screenplay),"Ring Lardner, Jr., Michael Kanin"
+804,PRINCESS O'ROURKE ,1943,95,Writing (Original Screenplay),Norman Krasna
+1009,MARIE-LOUISE ,1945,95,Writing (Original Screenplay),Richard Schweizer
+1078,THE SEVENTH VEIL ,1946,95,Writing (Original Screenplay),"Muriel Box, Sydney Box"
+1144,THE BACHELOR AND THE BOBBY-SOXER ,1947,95,Writing (Original Screenplay),Sidney Sheldon
+37,MANHATTAN MELODRAMA ,1934,96,Writing (Original Story),Arthur Caesar
+87,THE SCOUNDREL ,1935,96,Writing (Original Story),"Ben Hecht, Charles MacArthur"
+1792,THE RED BALLOON ,1956,104,"Writing (Screenplay, Original)",Albert Lamorisse
+1493,THE LAVENDER HILL MOB ,1952,105,Writing (Story and Screenplay),T. E. B. Clarke
